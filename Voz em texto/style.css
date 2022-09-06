@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.caixa{
+    margin: 200px auto;
+    width: 700px;
+    height: 300px;
+     text-align: center;
+}
+.conteudo{
+    margin: 0 auto;
+    width: 620px;
+    height: 220px;
+    background-color: #fff;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    text-align: left;
+    padding: 10px;
+    font-size: 27px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btndiv{
+    margin: 10px;
+}
+.btn{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #008000;
+    color: #fff;
+}
